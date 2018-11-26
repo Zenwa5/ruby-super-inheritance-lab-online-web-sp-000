@@ -9,5 +9,6 @@ class ChattyStudent < Student
     super 10.times do |i|
       puts i
     end
-    
+  end
+
 end
